@@ -17,6 +17,4 @@ This is a simple temperature converter webpage that allows users to convert temp
 - **CSS**: Styling language used to make the webpage visually appealing.
 - **JavaScript**: Programming language used to handle the temperature conversion logic and user interactions.
 
-##Acknowledgments
 
--Inspiration from various temperature converter tools available online.
